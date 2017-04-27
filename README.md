@@ -12,7 +12,7 @@ To use the banner, you will need to include the banner and then create a new Tri
 	var Banner = new TriangleBanner("your-canvas-id");
 </script>
 ```
-It is that simple to have a banner autogenerate with all the default settings. The canvas object can be of any size and the triangles will generate the fit the entire canvas.
+It is that simple to have a banner autogenerate with all the default settings. The canvas object can be of any size and the triangles will generate the fit the entire canvas. You must wrap the canvas in an object such as a <div>.
 
 #### Customizations
 ###### How to use customizations
@@ -28,6 +28,18 @@ Outline style has 4 different options that you can use, which modify the line wi
 - 2 
 - 3
 - 4
+
+###### quality
+This determines the quality of the triangles. It has 4 different options. Currently you have to manually assign the quality as it is defaults to 'High'. The options are:
+- low
+- med
+- high (default)
+- ultra
+
+###### resize
+This determines if the squares resize when the page is resized. This is off by default but you can turn it on by assigning 'true' for the value. The options are:
+- true
+- false (default)
 
 ###### triangleHeight
 Triangle height is how you decide on the height of the triangle. They way it is calculated is 1/x of the height of the canvas, so if you passed in 16 the height of a triangles will range between 1/16th and 1/18th the canvas height (the upper range is always 2 more than the number passed in). The default is 6.
@@ -72,7 +84,11 @@ There are currently 4 different animations that are built in to the library by d
 ![anim3](https://cloud.githubusercontent.com/assets/8935913/25468851/d08a4012-2ad5-11e7-9ce7-c49a2bda2447.gif)
 - 4, a pure color changing effect from right to left <br />
 ![anim4](https://cloud.githubusercontent.com/assets/8935913/25468850/d0897358-2ad5-11e7-857c-55171c60008f.gif)
-
+- 5, a wave with a fading color change <br />
+    GIF COMING SOON <br/>
+- 6, a wave with a non-fading color change <br />
+    GIF COMING SOON <br/>
+    
 ###### animationColors
 Animation colors are used when use select animation 3 & 4 as it is the color changing animation. The same colors are available from the 'color' list, and you can use multiple colors also.
 
