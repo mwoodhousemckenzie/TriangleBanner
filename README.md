@@ -88,9 +88,9 @@ There are currently 4 different animations that are built in to the library by d
 - 4, a pure color changing effect from right to left <br />
 ![anim4](https://cloud.githubusercontent.com/assets/8935913/25468850/d0897358-2ad5-11e7-857c-55171c60008f.gif)
 - 5, a wave with a fading color change <br />
-    GIF COMING SOON <br/>
+![anim5](https://cloud.githubusercontent.com/assets/8935913/25505681/22b128d0-2b60-11e7-844e-dc2ec633e377.gif)
 - 6, a wave with a non-fading color change <br />
-    GIF COMING SOON <br/>
+![anim6](https://cloud.githubusercontent.com/assets/8935913/25505687/2c9c4bea-2b60-11e7-8225-e3b55eb9bea1.gif)
     
 ###### animationColors
 Animation colors are used when use select animation 3 & 4 as it is the color changing animation. The same colors are available from the 'color' list, and you can use multiple colors also.
