@@ -80,17 +80,17 @@ Those are the base options, you can customize the color more by passing in multi
 ###### animation
 There are currently 4 different animations that are built in to the library by default, the different options are:
 - 1, a random movement effect <br />
-![anim1](https://cloud.githubusercontent.com/assets/8935913/25468463/42fa8664-2ad3-11e7-99c9-55a78ec19c1b.gif)
+![anim1](https://cloud.githubusercontent.com/assets/8935913/25506239/deea239c-2b62-11e7-8dcf-71e10452c282.gif)
 - 2, a wave effect from right to left <br />
-![anim2](https://cloud.githubusercontent.com/assets/8935913/25468852/d08b313e-2ad5-11e7-88f9-eeabdf6ff23f.gif)
+![anim2](https://cloud.githubusercontent.com/assets/8935913/25506238/dee6d840-2b62-11e7-8cdf-ab4320f36bf2.gif)
 - 3, a wave effect with a color changing effect also <br/>
-![anim3](https://cloud.githubusercontent.com/assets/8935913/25468851/d08a4012-2ad5-11e7-9ce7-c49a2bda2447.gif)
+![anim3](https://cloud.githubusercontent.com/assets/8935913/25506232/ded44ebe-2b62-11e7-869b-945a311111cc.gif)
 - 4, a pure color changing effect from right to left <br />
-![anim4](https://cloud.githubusercontent.com/assets/8935913/25468850/d0897358-2ad5-11e7-857c-55171c60008f.gif)
+![anim4](https://cloud.githubusercontent.com/assets/8935913/25506234/dee2fd38-2b62-11e7-9bda-5ccfc36f9e2a.gif)
 - 5, a wave with a fading color change <br />
-![anim5](https://cloud.githubusercontent.com/assets/8935913/25505681/22b128d0-2b60-11e7-844e-dc2ec633e377.gif)
+![anim5](https://cloud.githubusercontent.com/assets/8935913/25506235/dee5b866-2b62-11e7-8c4c-b1f53f759628.gif)
 - 6, a wave with a non-fading color change <br />
-![anim6](https://cloud.githubusercontent.com/assets/8935913/25505687/2c9c4bea-2b60-11e7-8225-e3b55eb9bea1.gif)
+![anim6](https://cloud.githubusercontent.com/assets/8935913/25506237/dee5f9ca-2b62-11e7-9953-631feda7947c.gif)
     
 ###### animationColors
 Animation colors are used when use select animation 3 & 4 as it is the color changing animation. The same colors are available from the 'color' list, and you can use multiple colors also.
@@ -107,3 +107,5 @@ Currently this product is still in development and should get more features as i
 Copyright 2017 Mitchell Woodhouse Mckenzie
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+![bottom](https://cloud.githubusercontent.com/assets/8935913/25506236/dee5e570-2b62-11e7-9d72-987d82b918e1.png)
