@@ -15,7 +15,7 @@ To use the banner, you will need to include the banner and then create a new Tri
 It is that simple to have a banner autogenerate with all the default settings. The canvas object can be of any size and the triangles will generate the fit the entire canvas. You must wrap the canvas in an object such as:
 ```HTML 
 <div style="width: 100%; height: 40%"></div>
-```.
+```
 
 #### Customizations
 ###### How to use customizations
