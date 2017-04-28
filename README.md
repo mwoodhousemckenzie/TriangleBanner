@@ -101,7 +101,7 @@ Options available:
 ###### direction
 This give the option for the direction of either left(1) or right(-1). These are the possible options:
 - 1, left
-- 2, right (default)
+- -1, right (default)
  
 ###### animationColors
 Animation colors are used when use select animation 3 & 4 as it is the color changing animation. The same colors are available from the 'color' list, and you can use multiple colors also.
