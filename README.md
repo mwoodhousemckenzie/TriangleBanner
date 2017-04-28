@@ -78,7 +78,7 @@ Those are the base options, you can customize the color more by passing in multi
 <canvas id="canvas-id" color=red-green ></canvas> 
 ```
 ###### animation
-There are currently 4 different animations that are built in to the library by default, the different options are:
+There are currently 6 different animations that are built in to the library by default, the different options are:
 - 1, a random movement effect <br />
 ![anim1](https://cloud.githubusercontent.com/assets/8935913/25506239/deea239c-2b62-11e7-8dcf-71e10452c282.gif)
 - 2, a wave effect from right to left <br />
@@ -114,7 +114,7 @@ you can override the default with this option. This option sets the interval spe
 This gives you the ability to give the animation a delay between each cycle. The first animation is always played instantly, but you can set the amount of milliseconds between each cycle. The default is 0ms.
 
 #### Development
-Currently this product is still in development and should get more features as it moves along.
+Currently this product is still in development and should get more features as it moves along. Currently only the minified version is available as the main code is not up to a standard I want to release to the public.
 
 #### License
 Copyright 2017 Mitchell Woodhouse Mckenzie
