@@ -92,13 +92,26 @@ There are currently 4 different animations that are built in to the library by d
 - 6, a wave with a non-fading color change <br />
 ![anim6](https://cloud.githubusercontent.com/assets/8935913/25506237/dee5f9ca-2b62-11e7-9953-631feda7947c.gif)
     
+###### alternate
+Alternate gives you the ability to make it so the the animation will go back and forth. This alternates the direction automatically.
+Options available:
+- true
+- false (default)
+
+###### direction
+This give the option for the direction of either left(1) or right(-1). These are the possible options:
+- 1, left
+- 2, right (default)
+ 
 ###### animationColors
 Animation colors are used when use select animation 3 & 4 as it is the color changing animation. The same colors are available from the 'color' list, and you can use multiple colors also.
 
 ###### animationSpeed
-This is a option to let you select the animation speed for the different animations, all of the animations have a default speed but
+This is an option to let you select the animation speed for the different animations, all of the animations have a default speed but
 you can override the default with this option. This option sets the interval speed in ms.
 
+###### animationDelay
+This gives you the ability to give the animation a delay between each cycle. The first animation is always played instantly, but you can set the amount of milliseconds between each cycle. The default is 0ms.
 
 #### Development
 Currently this product is still in development and should get more features as it moves along.
